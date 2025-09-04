@@ -1,0 +1,46 @@
+body{
+  background-color: rgb(255, 226, 189);
+}
+.header{
+  text-align: center;
+}
+.title{
+  color: rgb(99, 38, 14);
+  font-size: 32px;
+}
+main{
+  text-align: center;
+}
+.article{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.table{
+ margin: auto;
+ width: 60%;
+ border-collapse: collapse;
+}
+.table th,
+.table td{
+  border: 1px black solid;
+  padding: 10px;
+}
+.video iframe{
+  width: 800px;
+  height: 500px;
+  border: none;
+}
+.fieldset{
+  margin: auto;
+  border: 1px black solid;
+  width: 25%;
+}
+.label{
+  display: block;
+}
+footer{
+  background-color: rgb(255, 205, 130);
+  height: 70px;
+}
+.address{
+  text-align: center;
+}
