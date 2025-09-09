@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(253, 214, 155);
+    margin: 0%;
+}
+
+.header{
+    text-align: center;
+}
+.title{
+    color: rgb(73, 20, 20);
+    font-size: 31px;
+}
+main{
+    text-align: center;
+}
+.article{
+    font-family: cursive;
+}
+.titlegallery{
+    font-size: 23px;
+    font-family: monospace;
+}
+.table{
+  margin: auto;
+  border-collapse: collapse;
+  width: 60%;
+}
+.table th,
+.table td{
+    border: 1px solid black;
+    padding: 10px
+}
+.video iframe{
+  width: 800px;
+  height: 500px;
+  border: none;
+}
+.fieldset{
+  margin: auto;
+  border: 1px black solid;
+  width: 30%;  
+}
+.label{
+    display: block;
+}
+.address{
+    text-align: center;
+    height: 100px;
+    background-color: rgb(252, 189, 108);
+}
+
