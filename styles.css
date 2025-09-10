@@ -6,9 +6,15 @@ body{
 .header{
     text-align: center;
 }
+.picture{
+    box-shadow: 1px 6px 14px black, -1px -6px 14px black;
+}
 .title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(73, 20, 20);
-    font-size: 31px;
+    font-size: 33px;
+    letter-spacing: 6px;
+    text-shadow: 4px 3px 6px black;
 }
 main{
     text-align: center;
